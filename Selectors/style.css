@@ -1,1 +1,27 @@
 /* Write your code here: */
+h1 {
+    color: purple;
+}
+h2 {
+    color: purple;
+}
+
+.box p {
+    color: red;
+}
+
+li {
+    color: green;
+}
+
+li:first-child {
+    color: blue;
+}
+
+ul > p {
+    font-size: small;
+}
+
+body > p {
+    font-size: 28px;
+}
